@@ -11,6 +11,7 @@ namespace _1._03._24
         private string name;
         private string surname;
         private DateTime birthday;
+        DateTime dateTime = DateTime.Now;
 
         public Person(string name,string surname,DateTime birthday) 
         {
@@ -23,10 +24,10 @@ namespace _1._03._24
         public string Surname { get => surname; set => surname = value; }
         public DateTime Birthday { get => birthday; set => birthday = value; }
 
-        public abstract int Age();
-        public virtual void Print()
+        public  int GetAge()
         {
-            Console.WriteLine($"Имя: {name}\nФамилия: {surname}\nДата рождения: {birthday}");
+            return dateTime.Subtract(Birthday).Days / 365;
         }
+        public abstract void Print();
     }
 }

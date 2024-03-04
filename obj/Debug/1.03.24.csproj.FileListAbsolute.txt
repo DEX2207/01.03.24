@@ -1,0 +1,11 @@
+G:\215\1.03.24\bin\Debug\1.03.24.exe.config
+G:\215\1.03.24\bin\Debug\1.03.24.exe
+G:\215\1.03.24\bin\Debug\1.03.24.pdb
+G:\215\1.03.24\obj\Debug\1.03.24.csproj.AssemblyReference.cache
+G:\215\1.03.24\obj\Debug\1.03.24.csproj.CoreCompileInputs.cache
+G:\215\1.03.24\obj\Debug\1.03.24.exe
+G:\215\1.03.24\obj\Debug\1.03.24.pdb
+E:\215\1.03.24\obj\Debug\1.03.24.csproj.AssemblyReference.cache
+E:\215\1.03.24\obj\Debug\1.03.24.csproj.CoreCompileInputs.cache
+E:\215\1.03.24\obj\Debug\1.03.24.exe
+E:\215\1.03.24\obj\Debug\1.03.24.pdb
